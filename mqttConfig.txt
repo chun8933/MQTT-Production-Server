@@ -1,0 +1,12 @@
+{
+  "topics": [
+      "#"
+  ],
+  "address": "ssl://172.29.16.97",
+  "port": "61614",
+  "username": "admin",
+  "password": "password",
+  "APIPort" : "8083",
+  "MQTTCheckLive": "15",
+  "pc_name":"SQCC_RPU2"
+}
